@@ -3,6 +3,12 @@ title: Curriculum Vitae
 name: Andrew Munro
 description: Technical Leader | Solutions Architect | Principal Engineer
 address: Leeds, UK | andrew@mun.sh
+seo:
+    title: Curriculum Vitae
+    description: Technical leader and senior architect with over 12 years of experience spanning software engineering, platform architecture, and technical strategy.
+    image:
+        src: /hero.jpg
+        alt: Andrew Munro
 action:
     text: Download PDF
     href: /cv.pdf
@@ -16,7 +22,7 @@ Leeds, UK | andrew@mun.sh
 
 ## SUMMARY
 
-Technical leader and senior architect with 12+ years of experience spanning software engineering, platform architecture, and technical strategy. Proven ability to drive end-to-end system design, mentor engineering teams, and lead large-scale transformation initiatives. Skilled in building distributed cloud-native platforms, fostering cross-functional alignment, and shaping long-term technical direction. Experienced in both deep technical work and organizational leadership across domains. Skilled communicator and collaborator, with a passion for building high-performing teams and driving technical excellence.
+Technical leader and senior architect with over 12 years of experience spanning software engineering, platform architecture, and technical strategy. Proven ability to drive end-to-end system design, mentor engineering teams, and lead large-scale transformation initiatives. Skilled in building distributed cloud-native platforms, fostering cross-functional alignment, and shaping long-term technical direction. Experienced in both deep technical work and organizational leadership across domains. Skilled communicator and collaborator, with a passion for building high-performing teams and driving technical excellence.
 
 ---
 

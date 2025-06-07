@@ -2,7 +2,7 @@
 title: Get in touch
 seo:
     title: Contact
-    description: Contact Details
+    description: Contact Andrew Munro
 ---
 
 [Email](mailto:andrew@mun.sh)

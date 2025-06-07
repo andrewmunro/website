@@ -35,10 +35,10 @@ const siteConfig: SiteConfig = {
 	website: 'https://mun.sh',
 	title: 'Andrew Munro',
 	subtitle: '@andrewmunro | mun.sh',
-	description: "Andrew Munro's weblog",
+	description: "The personal website of Andrew Munro",
 	image: {
-		src: '/hero-bw.jpg',
-		alt: "Andrew Munro's weblog"
+		src: '/hero.jpg',
+		alt: "Andrew Munro"
 	},
 	headerNavLinks: [
 		{
@@ -99,8 +99,8 @@ const siteConfig: SiteConfig = {
 			<p><b>I share</b> life with my beautiful wife and our <a href="/cat">cat</a>.</p>
 			`,
 		image: {
-			src: '/hero-bw.jpg',
-			alt: 'A photo of me'
+			src: '/hero.jpg',
+			alt: 'Andrew Munro'
 		},
 		actions: [
 			// {
