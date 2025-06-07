@@ -30,6 +30,10 @@ const pages = defineCollection({
 	loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/pages' }),
 	schema: z.object({
 		title: z.string(),
+		action: z.object({
+			text: z.string(),
+			href: z.string()
+		}).optional(),
 		seo: seoSchema.optional()
 	})
 })

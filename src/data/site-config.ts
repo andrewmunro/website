@@ -16,12 +16,6 @@ export type Hero = {
 	actions?: Link[]
 }
 
-export type Subscribe = {
-	title?: string
-	text?: string
-	formUrl: string
-}
-
 export type SiteConfig = {
 	website: string
 	logo?: Image
@@ -33,7 +27,6 @@ export type SiteConfig = {
 	footerNavLinks?: Link[]
 	socialLinks?: Link[]
 	hero?: Hero
-	subscribe?: Subscribe
 	postsPerPage?: number
 	projectsPerPage?: number
 }
@@ -71,6 +64,10 @@ const siteConfig: SiteConfig = {
 			href: '/bio'
 		},
 		{
+			text: 'CV',
+			href: '/cv'
+		},
+		{
 			text: 'Contact',
 			href: '/contact'
 		},
@@ -87,6 +84,10 @@ const siteConfig: SiteConfig = {
 		{
 			text: 'LinkedIn',
 			href: 'https://www.linkedin.com/in/andrew-munro-1a426787/'
+		},
+		{
+			text: 'Bluesky',
+			href: 'https://bsky.app/profile/synergies.bsky.social'
 		}
 	],
 	hero: {
@@ -95,17 +96,17 @@ const siteConfig: SiteConfig = {
 			<p><b>I live</b> and work in <a href="https://maps.app.goo.gl/XLTrke6nzbkbTMsD6">Leeds, UK</a>.</p>
 			<p><b>I co-founded</b> <a href="https://milkshake.io">Milkshake Games</a>, creators of <a href="https://golfparty.io">⛳ golfparty.io</a>.</p>
 			<p><b>I love</b> to make multiplayer web games and currently working on <a href="https://ecs.milkshake.io">my own engine</a>.</p>
-			<p><b>I am</b> a husband and father to a beautiful wife and <a href="/cat">cat</a>.</p>
+			<p><b>I share</b> life with my beautiful wife and our <a href="/cat">cat</a>.</p>
 			`,
 		image: {
 			src: '/hero-bw.jpg',
 			alt: 'A photo of me'
 		},
 		actions: [
-			{
-				text: 'Get in Touch',
-				href: 'mailto:andrew@mun.sh'
-			}
+			// {
+			// 	text: 'Get in Touch',
+			// 	href: 'mailto:andrew@mun.sh'
+			// }
 		]
 	},
 	postsPerPage: 8,
