@@ -1,0 +1,47 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Projects
+
+Projects are a showcase of things I have worked on. They exist in `/src/content/projects`.
+
+To create a new project, ask the user for various inputs.
+
+Each project should follow this template:
+
+```markdown
+---
+title: 'Project Name'
+description: Project Description
+publishDate: 'Jan 02 2024' (Today's date)
+repo: https://github.com/andrewmunro/project-repo
+seo:
+    image:
+        src: '/project-image.ext'
+        alt: Project preview
+---
+
+![Project Image](/project-image.ext)
+
+A high level summary about the project
+
+## Description
+
+- A 2 panel dotmatrix display to show the next bus, train times
+- Shows the next bus, train times in real time (including capacity)
+- Shows the current time and weather
+- Shows the latest arrivals at Leeds Bradford Airport
+
+## Tech
+
+- **Frontend:** [Astro.js](mdc:https:/astro.build) for a dynamic and responsive user interface and [Tailwind CSS](mdc:https:/tailwindcss.com) for styling.
+- **Backend:** Node.js for handling server-side logic and API integration.
+- **Database:** MongoDB for efficient storage and retrieval of historical data.
+...
+
+## Outcome and Future improvements
+
+Something about the outcome
+```
