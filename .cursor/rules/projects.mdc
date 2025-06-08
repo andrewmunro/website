@@ -7,41 +7,66 @@ alwaysApply: true
 
 Projects are a showcase of things I have worked on. They exist in `/src/content/projects`.
 
-To create a new project, ask the user for various inputs.
-
 Each project should follow this template:
 
 ```markdown
 ---
 title: 'Project Name'
 description: Project Description
-publishDate: 'Jan 02 2024' (Today's date)
-repo: https://github.com/andrewmunro/project-repo
+publishDate: 'Current Date' (Use current date, not a placeholder)
+repo: https://github.com/andrewmunro/project-repo (Optional - omit if no repository exists)
 seo:
     image:
-        src: '/project-image.ext'
-        alt: Project preview
+        src: '/project-name/project-image.ext'
+        alt: Project preview description
 ---
 
-![Project Image](/project-image.ext)
+![Project Image](/project-name/project-image.ext)
 
-A high level summary about the project
+A high level summary about the project in first person, explaining what it does and why it was built.
 
 ## Description
 
-- A 2 panel dotmatrix display to show the next bus, train times
-- Shows the next bus, train times in real time (including capacity)
-- Shows the current time and weather
-- Shows the latest arrivals at Leeds Bradford Airport
+- **Key Feature 1:** Brief description with personal context (e.g., "Primary coding and development server I use")
+- **Key Feature 2:** Description highlighting benefits or cost savings (e.g., "I used to pay a fortune for VPS's. Now I can run multiple services for free")
+- **Key Feature 3:** Practical aspects like form factor, power usage, reliability
+- **Key Feature 4:** Always-on capabilities and accessibility
 
 ## Tech
 
-- **Frontend:** [Astro.js](mdc:https:/astro.build) for a dynamic and responsive user interface and [Tailwind CSS](mdc:https:/tailwindcss.com) for styling.
-- **Backend:** Node.js for handling server-side logic and API integration.
-- **Database:** MongoDB for efficient storage and retrieval of historical data.
-...
+- **Category:** [Technology Name](mdc:https:/link.com) for specific purpose and benefit
+- **Platform:** Technology used for orchestration/management
+- **Tools:** Supporting tools and utilities
+- **Security:** Security technologies and access control
+- **Architecture:** Overall approach and design philosophy
 
-## Outcome and Future improvements
+## Features
 
-Something about the outcome
+- **Primary Use Case:** Main functionality and accessibility
+- **Technical Approach:** How the solution works technically
+- **Management:** How it's operated and maintained
+- **Security:** Security features and protections
+- **Deployment:** How services are deployed and managed
+- **Multi-Purpose:** Various use cases and capabilities
+
+## Outcome and Future Improvements
+
+Personal reflection on how the project has impacted workflow or solved problems. Should be written in first person and include specific benefits gained.
+
+Future improvements should be honest and practical, including:
+- Infrastructure as Code improvements
+- Backup solutions (can be self-deprecating about current state)
+- Monitoring and alerting
+- Process improvements
 ```
+
+**Notes for project creation:**
+- Always use current date, not placeholder dates
+- Repository field is optional - omit if no repo exists
+- Write in first person with personal context
+- Include cost savings or practical benefits where relevant
+- Be honest about current limitations in future improvements
+- Create corresponding `/public/project-name/` directory for images
+- Images should be saved as PNG or WebP format for better web performance
+
+To create a new project, ask the user for general information about the project and try to fill in the template with their specific details.

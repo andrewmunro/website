@@ -3,4 +3,29 @@ description:
 globs: 
 alwaysApply: true
 ---
+DO NOT START TERMINAL SESSIONS. THEY ARE MOST LIKELY ALREADY RUNNING BY THE USER.
+
 This project uses bun. Please use bun to run the commands (e.g bunx instead of npx).
+
+## Learning
+If you are corrected by someone or understand a new pattern, you should update the rules file to reflect the new information. 
+When you do this, you should ask for permission to update the rules file.
+
+## Commit Message Guidelines
+Use the Conventional Commit Messages specification to generate commit messages
+
+The commit message should be structured as follows:
+
+```
+<type>[optional scope]: <short description>
+``` 
+--------------------------------
+
+The commit contains the following structural elements, to communicate intent to the consumers of your librar
+y:
+
+  - The scope should be which project it belongs to, either the package folder name or app folder name
+  - fix: a commit of the type fix patches a bug in your codebase (this correlates with PATCH in Semantic Versioning).
+  - feat: a commit of the type feat introduces a new feature to the codebase (this correlates with MINOR in Semantic Versioning).
+  - BREAKING CHANGE: a commit that has a footer BREAKING CHANGE:, or appends a ! after the type/scope, introduces a breaking API change (correlating with MAJOR in Semantic Versioning). A BREAKING CHANGE can be part of commits of any type.
+  - types other than fix: and feat: are allowed, for example @commitlint/config-conventional (based on the Angular convention) recommends build:, chore:, ci:, docs:, style:, refactor:, perf:, test:, and others.
