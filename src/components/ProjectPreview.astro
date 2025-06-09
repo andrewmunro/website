@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets'
 import { type CollectionEntry } from 'astro:content'
 import ArrowRight from '../icons/ArrowRight.astro'
 
@@ -13,7 +14,7 @@ const TitleTag = headingLevel
 	{
 		seo?.image?.src && (
 			<div class="shrink-0">
-				<img src={seo.image.src} alt={seo.image.alt || `${title} thumbnail`} class="w-16 h-16 object-cover rounded-lg" />
+				<Image src={seo.image.src} alt={seo.image.alt || `${title} thumbnail`} class="w-16 h-16 object-cover rounded-lg" width={64} height={64} />
 			</div>
 		)
 	}
