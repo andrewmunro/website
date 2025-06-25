@@ -23,7 +23,7 @@ Leeds, UK | andrew@mun.sh
 
 ## SUMMARY
 
-Senior architect and technical leader with over 12 years of experience in software engineering, platform architecture, and technical strategy. Known for a pragmatic, solutions-oriented approach to complex challenges, with expertise in end-to-end system design, distributed cloud-native platforms, and large-scale transformation initiatives. Skilled communicator adept at engaging stakeholders at all levels, aligning cross-functional teams, and shaping long-term technical direction.
+Full-stack engineer and technical leader with over 12 years of experience delivering scalable, high-availability platforms in the gambling and iGaming space. I specialise in cloud-native distributed systems, platform architecture, and technical strategy, with a strong track record of leading cross-functional engineering teams through complex initiatives—ranging from greenfield builds to large-scale platform transformations. I bring hands-on expertise across the stack (both frontend and backend) and a pragmatic, delivery-focused mindset rooted in real-world operations and stakeholder engagement. Comfortable operating at both strategic and implementation levels, I excel at aligning technology with product vision, shaping architectural direction, and fostering engineering culture in fast-paced, regulated environments.
 
 ---
 
@@ -38,13 +38,13 @@ Senior architect and technical leader with over 12 years of experience in softwa
 
 ### Frontend & Testing
 
-- Frontend Systems (TypeScript, React, React Native, Swift Kotlin iOS/Android, Design Systems)
+- Frontend Systems (TypeScript, React, React Native, Swift Kotlin, iOS/Android, Design Systems)
 - Testing Strategy & Tooling (TDD, Unit/Integration, E2E)
 
 ### Backend & Infrastructure
 
 - Distributed & Event-Driven Systems (Go, Java, Kafka)
-- Edge Delivery & CDN (Akamai, Cloudflare)
+- Edge Delivery & CDN (Cloudflare, Akamai, Cloudfront)
 - Cloud Infrastructure & Automation (AWS, Kuberenetes, Terraform, Helm)
 - CI/CD & GitOps (GitHub Actions, Jenkins, CodePipeline)
 
@@ -59,10 +59,10 @@ Senior architect and technical leader with over 12 years of experience in softwa
 - Lead a small team of architects responsible for the casino frontend platform, driving architectural quality, scalability, and cohesion across multiple engineering squads.
 - Mentor and manage team members, including recruitment and professional development.
 - Established new technical decision-making forums and architectural governance structures.
+- Serve as an **on-call Incident Commander**, coordinating multiple engineering teams during platform outages and driving structured post-incident reviews for resilience improvements.
 - Oversaw strategy and implementation for a major platform transformation, onboarding an internal business onto a shared technology stack.
-- Led initiatives across Kafka ETL pipelines, promotional systems, and personalized customer experiences.
-- Drove adoption of frontend design systems and modernization across the platform.
-- Served as an **on-call Incident Commander**, coordinating multiple engineering teams during platform outages and driving structured post-incident reviews for resilience improvements.
+- Led initiatives across Kafka ETL pipelines, promotional systems, and personalized customer experiences and experimentation.
+- Drove adoption of frontend design systems, ensuring consistency and modernization across the platform.
 
 ---
 
