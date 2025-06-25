@@ -56,7 +56,11 @@ const siteConfig: SiteConfig = {
 		{
 			text: 'Tags',
 			href: '/tags'
-		}
+		},
+		{
+			text: 'CV',
+			href: '/cv'
+		},
 	],
 	footerNavLinks: [
 		{
