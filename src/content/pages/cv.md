@@ -56,13 +56,11 @@ Full-stack engineer and technical leader with over 12 years of experience delive
 
 **FlutterUKI** | Leeds, UK | 2021–Present
 
-- Lead a small team of architects responsible for the casino frontend platform, driving architectural quality, scalability, and cohesion across multiple engineering squads.
-- Mentor and manage team members, including recruitment and professional development.
-- Established new technical decision-making forums and architectural governance structures.
-- Serve as an **on-call Incident Commander**, coordinating multiple engineering teams during platform outages and driving structured post-incident reviews for resilience improvements.
-- Oversaw strategy and implementation for a major platform transformation, onboarding an internal business onto a shared technology stack.
-- Led initiatives across Kafka ETL pipelines, promotional systems, and personalized customer experiences and experimentation.
-- Drove adoption of frontend design systems, ensuring consistency and modernization across the platform.
+- Led a team of 3 architects owning the casino frontend platform, driving architectural quality, scalability, and cohesion across 12 engineering squads while embedding agile best practices.
+- Shaped the architectural strategy for migrating an internal gaming business (~8M active users, £500M+ annual revenue) onto a unified platform, enabling shared features and reducing operational overhead. Migrated 10k customers per day with no downtime.
+- Established cross-domain architectural forums and governance processes, accelerating cross-tribe decision-making by 50% and aligning platform and frontend teams on shared technical direction.
+- Acted as on-call Incident Commander during platform outages, coordinating technical response across multiple teams, providing stakeholder comms, and driving post-incident reviews to strengthen resilience.
+- Championed adoption of a shared frontend design system across multiple brands, improving UI consistency and accelerating new brand rollout velocity by 50%.
 
 ---
 
@@ -70,10 +68,10 @@ Full-stack engineer and technical leader with over 12 years of experience delive
 
 **Sky Betting and Gaming** | Leeds, UK | 2020–2021
 
-- Defined end-to-end architecture for the gaming and casino platform, balancing business needs with security, scalability, and compliance.
-- Led architectural design and delivery for a company-wide SSO-to-OAuth migration.
-- Supported engineering and product teams across native mobile app development, promotion systems, and third-party integrations (e.g. Figma, Bitrise).
-- Delivered architectural blueprints, city plans, and documentation for cross-team alignment.
+- Designed end-to-end architecture for the gaming and casino platform, aligning business needs with security, scalability, and regulatory compliance across web and mobile.
+- Led the successful onboarding of multiple Remote Game Suppliers (RGS), collaborating with cross-functional stakeholders to ensure seamless integration and adherence to compliance standards.
+- Produced architectural blueprints, city plans, and technical artefacts adopted by 5+ squads, standardising platform vision and reducing onboarding time by 30%.
+- Spearheaded Kafka-based ETL and customer personalisation initiatives, enabling real-time targeting and experimentation for over 8M+ active users; partnered with two delivery teams to deliver MVPs to production.
 
 ---
 
@@ -81,11 +79,10 @@ Full-stack engineer and technical leader with over 12 years of experience delive
 
 **Sky Betting and Gaming** | Leeds, UK | 2017–2020
 
-- Directed two engineering teams (Gaming Services & Admin) across 5–10 engineers each, focusing on platform backend services and internal CMS.
-- Designed and implemented distributed systems using **Go**, **AWS**, **Terraform**, and cloud-native patterns.
-- Rebuilt major backend systems using a **federated GraphQL architecture**, enabling modular service boundaries and API scalability.
-- Balanced hands-on technical work (50%) with team leadership and delivery management.
-- Led hiring, mentoring, and coaching across engineering teams; helped grow the graduate program with technical interviews, training talks, and direct mentorship.
+- Led two engineering teams (10+ engineers), balancing 50% hands-on contribution with team leadership, delivery management, and stakeholder engagement. Line-managed 8 engineers, developing multiple team members from junior to senior through structured mentoring, coaching, and feedback.
+- Consolidated core backend systems using a federated GraphQL architecture, enabling modular data access across 5 business domains and significantly reducing frontend–backend integration complexity and technical debt.
+- Championed AWS adoption by designing and delivering distributed systems using Go, ECS Fargate, Terraform, and cloud-native patterns. Supported high-throughput (16.5k req/min), fault-tolerant services that scaled to 3× platform usage with 99.9% availability over 12 months.
+- Scaled the graduate engineering program by leading technical interviews, onboarding sessions, and internal engineering talks.
 
 ---
 
@@ -93,9 +90,9 @@ Full-stack engineer and technical leader with over 12 years of experience delive
 
 **Sky Betting and Gaming** | Leeds, UK | 2015–2017
 
-- Played a key role in scaling Sky Vegas to become the UK’s leading online casino platform.
-- Championed the adoption of **React**, leading frontend modernization from a legacy LAMP stack.
-- Built performant, responsive UI components and collaborated closely with product and backend teams.
+- Played a key role in scaling up Sky Vegas, driving a 4x increase in daily active users and establishing it as the UK’s largest online casino.
+- Championed adoption of React and moving to a single-page application, driving frontend modernization that reduced page load times by 80% and improved UI responsiveness compared to the legacy LAMP stack.
+- Developed performant, responsive UI components while collaborating closely with product managers and backend teams to deliver seamless user experiences and faster feature delivery.
 
 ---
 
@@ -103,9 +100,9 @@ Full-stack engineer and technical leader with over 12 years of experience delive
 
 **Dubit Limited** | Leeds, UK | 2012–2015
 
-- Delivered browser-based virtual worlds for children, owning projects end-to-end from planning through deployment.
-- Fullstack responsibilities included estimation, development, testing, hosting, and client communication.
-- Built engaging gameplay and social features using modern frontend and backend stacks.
+- Delivered engaging browser-based virtual worlds for children, owning projects end-to-end from planning through deployment, consistently meeting deadlines and quality standards.
+- Managed full-stack development responsibilities, including estimation, coding, testing, hosting, and client communication, ensuring smooth project delivery and stakeholder satisfaction.
+- Built interactive gameplay and social features using modern frontend and backend technologies, contributing to increased user engagement and platform retention.
 
 ---
 
@@ -113,12 +110,12 @@ Full-stack engineer and technical leader with over 12 years of experience delive
 
 **Milkshake Games LTD** | Leeds, UK | 2022–Present
 
-- Co-founder and director of a small studio that specialises in building 3d multiplayer web games and experiences.
-- Released golfparty.io, a multiplayer mini-golf game that reached **17+ million gameplays** post-2023 launch.
-- Built a bespoke game engine from scratch in **TypeScript**, including backend matchmaking and session management.
-- Designed and deployed infrastructure using **Terraform**, containers, and **Cloudflare** for global scale.
-- Own all aspects of technical design, development, deployment, monitoring and scaling.
-- Responsible for day to day business operations - accounting, compliance, marketing and partnerships.
+- Co-founded and lead a studio specialising in 3D multiplayer web games and immersive experiences.
+- Launched golfparty.io, a multiplayer mini-golf game achieving 17+ million gameplays since its 2023 release.
+- Architected and built a bespoke game engine from scratch in TypeScript, including backend matchmaking and session management systems.
+- Designed and deployed scalable infrastructure leveraging Terraform, container orchestration, and Cloudflare for global reach and performance.
+- Lead all technical design, development, deployment, monitoring, and scaling efforts to ensure platform reliability and growth.
+- Manage day-to-day business operations including accounting, compliance, marketing, and strategic partnerships.
 
 ---
 
