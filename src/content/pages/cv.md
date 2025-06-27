@@ -72,7 +72,7 @@ I bring hands-on expertise across the stack and a pragmatic, product-focused min
 
 - Designed end-to-end architecture for the gaming and casino platform, aligning business needs with security, scalability, and regulatory compliance across web and mobile.
 - Led the successful onboarding of multiple Remote Game Suppliers (RGS), collaborating with cross-functional stakeholders to ensure seamless integration and adherence to compliance standards.
-- Produced architectural blueprints, city plans, and technical artefacts adopted by 5+ squads, standardising platform vision and reducing onboarding time by 30%.
+- Produced architectural blueprints, city plans, and technical artefacts adopted by 5+ squads, standardising platform vision and reducing onboarding time significantly.
 - Spearheaded Kafka-based ETL and customer personalisation initiatives, enabling real-time targeting and experimentation for over 8M+ active users; partnered with two delivery teams to deliver MVPs to production.
 
 ---
@@ -92,7 +92,7 @@ I bring hands-on expertise across the stack and a pragmatic, product-focused min
 
 **Sky Betting and Gaming** | Leeds, UK | 2015–2017
 
-- Played a key role in scaling up Sky Vegas, driving a 4x increase in daily active users and establishing it as the UK’s largest online casino.
+- Played a key role in scaling up Sky Vegas, helping to drive a 4x increase in daily active users during this period and establishing it as the UK’s largest online casino.
 - Championed adoption of React and moving to a single-page application, driving frontend modernization that reduced page load times by 80% and improved UI responsiveness compared to the legacy LAMP stack.
 - Developed performant, responsive UI components while collaborating closely with product managers and backend teams to deliver seamless user experiences and faster feature delivery.
 
