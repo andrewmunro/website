@@ -23,7 +23,9 @@ Leeds, UK | andrew@mun.sh
 
 ## SUMMARY
 
-Full-stack engineer and technical leader with over 12 years of experience delivering scalable, high-availability platforms in the gambling and iGaming space. I specialise in cloud-native distributed systems, platform architecture, and technical strategy, with a strong track record of leading cross-functional engineering teams through complex initiatives—ranging from greenfield builds to large-scale platform transformations. I bring hands-on expertise across the stack (both frontend and backend) and a pragmatic, delivery-focused mindset rooted in real-world operations and stakeholder engagement. Comfortable operating at both strategic and implementation levels, I excel at aligning technology with product vision, shaping architectural direction, and fostering engineering culture in fast-paced, regulated environments.
+Full-stack engineer and technical leader with over 12 years of experience delivering scalable, high-availability platforms, primarily in the gambling and iGaming space. I specialise in cloud-native distributed systems, platform architecture, and technical strategy, with a proven track record of leading engineering teams through complex platform transformations and large-scale initiatives.
+
+I bring hands-on expertise across the stack and a pragmatic, product-focused mindset rooted in real-world operations and stakeholder engagement. Comfortable working at both strategic and implementation levels, I excel at aligning technology with product vision, shaping architectural direction, and fostering strong engineering culture in fast-paced, regulated environments.
 
 ---
 
