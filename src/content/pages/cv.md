@@ -60,7 +60,7 @@ I bring hands-on expertise across the stack and a pragmatic, product-focused min
 
 - Led a team of 3 architects owning the casino frontend platform, driving architectural quality, scalability, and cohesion across 12 engineering squads while embedding agile best practices.
 - Shaped the architectural strategy for migrating an internal gaming business (~8M active users, £500M+ annual revenue) onto a unified platform, enabling shared features and reducing operational overhead. Migrated 10k customers per day with no downtime.
-- Established cross-domain architectural forums and governance processes, accelerating cross-tribe decision-making by 50% and aligning platform and frontend teams on shared technical direction.
+- Established cross-domain architectural forums and governance processes, cutting cross-tribe decision-making in half and aligning platform and frontend teams on shared technical direction.
 - Acted as on-call Incident Commander during platform outages, coordinating technical response across multiple teams, providing stakeholder comms, and driving post-incident reviews to strengthen resilience.
 - Championed adoption of a shared frontend design system across multiple brands, improving UI consistency and accelerating new brand rollout velocity by 50%.
 
