@@ -11,7 +11,7 @@ seo:
         alt: Andrew Munro
 action:
     text: Download PDF
-    href: /cv.pdf
+    href: /andrew-munro-cv.pdf
 ---
 
 ## Andrew Munro

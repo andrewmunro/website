@@ -7,7 +7,7 @@
 		"build": "astro build",
 		"preview": "astro preview",
 		"pretty": "prettier --write .",
-		"cvpdf": "pandoc src/content/pages/cv.md --template=scripts/cv/cv.tex -o public/cv.pdf --lua-filter=scripts/cv/filter.lua --pdf-engine=xelatex",
+		"cvpdf": "pandoc src/content/pages/cv.md --template=scripts/cv/cv.tex -o public/andrew-munro-cv.pdf --lua-filter=scripts/cv/filter.lua --pdf-engine=xelatex",
 		"deploy": "bun run build && bunx wrangler pages deploy --project-name=website dist"
 	},
 	"dependencies": {
