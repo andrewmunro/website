@@ -38,7 +38,7 @@ I bring hands-on expertise across the stack and a pragmatic, product-focused min
 - Architectural Governance, Forums and Decision Making
 - Stakeholder Management & Communication
 
-### Technical Competencies
+### Technical
 
 - Frontend Systems (TypeScript, React, React Native, iOS Swift, Kotlin Android, Design Systems)
 - Testing Strategy & Tooling (TDD, Unit/Integration, E2E)
