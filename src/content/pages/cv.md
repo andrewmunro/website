@@ -25,7 +25,7 @@ Leeds, UK | andrew@mun.sh
 
 Full-stack engineer and technical leader with over 12 years of experience delivering scalable, high-availability platforms, primarily in the gambling and iGaming space. I specialise in cloud-native distributed systems, platform architecture, and technical strategy, with a proven track record of leading engineering teams through complex platform transformations and large-scale initiatives.
 
-I bring hands-on expertise across the stack and a pragmatic, product-focused mindset rooted in real-world operations and stakeholder engagement. Comfortable working at both strategic and implementation levels, I excel at aligning technology with product vision, shaping architectural direction, and fostering strong engineering culture in fast-paced, regulated environments.
+I bring hands-on expertise across the stack and a pragmatic, product-focused mindset rooted in real-world operations and stakeholder engagement. Comfortable working at both strategic and implementation levels, I excel at aligning technology with product vision, shaping architectural direction, and fostering strong engineering culture in fast-paced, highly regulated environments.
 
 ---
 
@@ -38,17 +38,14 @@ I bring hands-on expertise across the stack and a pragmatic, product-focused min
 - Architectural Governance, Forums and Decision Making
 - Stakeholder Management & Communication
 
-### Frontend & Testing
+### Technical Competencies
 
-- Frontend Systems (TypeScript, React, React Native, Swift Kotlin, iOS/Android, Design Systems)
+- Frontend Systems (TypeScript, React, React Native, iOS Swift, Kotlin Android, Design Systems)
 - Testing Strategy & Tooling (TDD, Unit/Integration, E2E)
-
-### Backend & Infrastructure
-
-- Distributed & Event-Driven Systems (Go, Java, Kafka)
-- Edge Delivery & CDN (Cloudflare, Akamai, Cloudfront)
-- Cloud Infrastructure & Automation (AWS, Kuberenetes, Terraform, Helm)
-- CI/CD & GitOps (GitHub Actions, Jenkins, CodePipeline)
+- API Design & Development (Rest, GraphQL, WebSockets, Redis, Elastic, SQL + NoSQL)
+- Distributed & Event-Driven Systems (Go, Kotlin / Java, Kafka, SNS, SQS)
+- Cloud Infrastructure & Automation (AWS, Kuberenetes, Terraform, Helm, GitHub Actions, Jenkins, Cloudflare, Akamai, Cloudfront)
+- Observability & Monitoring (Cloudwatch + X-Ray, ELK, Prometheus, Grafana, OTEL, Splunk)
 
 ---
 
@@ -113,8 +110,8 @@ I bring hands-on expertise across the stack and a pragmatic, product-focused min
 **Milkshake Games** | Leeds, UK | 2022–Present
 
 - Co-founded and lead a studio specialising in 3D multiplayer web games and immersive experiences.
-- Launched golfparty.io, a multiplayer mini-golf game achieving 17+ million gameplays since its 2023 release.
-- Architected and built a bespoke game engine from scratch in TypeScript, including backend matchmaking and session management systems.
+- Launched golfparty.io, a multiplayer mini-golf game achieving a peak of 20k daily actives and 17+ million gameplays since its 2023 release.
+- Architected and built a bespoke, real-time multiplayer game engine from scratch in TypeScript, including backend matchmaking and session management systems.
 - Designed and deployed scalable infrastructure leveraging Terraform, container orchestration, and Cloudflare for global reach and performance.
 - Lead all technical design, development, deployment, monitoring, and scaling efforts to ensure platform reliability and growth.
 - Manage day-to-day business operations including accounting, compliance, marketing, and strategic partnerships.
