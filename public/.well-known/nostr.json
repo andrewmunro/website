@@ -1,0 +1,13 @@
+{
+	"names": {
+		"andrew": "505ac5d58b874fa43b2df76ac2e86d85c6ad6ce4f67746bc1558c80eff47f51a"
+	},
+	"relays": {
+		"505ac5d58b874fa43b2df76ac2e86d85c6ad6ce4f67746bc1558c80eff47f51a": [
+			"wss://relay.damus.io",
+			"wss://relay.nostr.band",
+			"wss://relay.primal.net",
+			"wss://relay.snort.social"
+		]
+	}
+}
