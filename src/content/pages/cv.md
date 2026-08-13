@@ -1,13 +1,13 @@
 ---
 title: Curriculum Vitae
 name: Andrew Munro
-description: Technical Leader | Solutions Architect | Principal Engineer
+description: Technical Leader | Senior Staff Engineer | Solutions Architect
 address: Leeds, UK | andrew@mun.sh
 seo:
     title: Curriculum Vitae
     description: Technical leader and senior architect with over 12 years of experience spanning software engineering, platform architecture, and technical strategy.
     image:
-        src: /hero.jpg
+        src: /hero2.jpg
         alt: Andrew Munro
 action:
     text: Download PDF
@@ -16,7 +16,7 @@ action:
 
 ## Andrew Munro
 
-Technical Leader | Solutions Architect | Principal Engineer  
+Technical Leader | Senior Staff Engineer | Solutions Architect  
 Leeds, UK | andrew@mun.sh
 
 ---
@@ -51,9 +51,18 @@ I bring hands-on expertise across the stack and a pragmatic, product-focused min
 
 ## PROFESSIONAL EXPERIENCE
 
+### Senior Staff Engineer
+
+**Fanatics Betting and Gaming** | Leeds, UK | Nov 2025–Present
+
+- Technical owner of the casino loyalty domain, setting architectural direction and engineering standards across the platform.
+- Plan, deliver and scale loyalty features for one of the fastest growing online casinos in the USA.
+
+---
+
 ### Senior Solutions Architect
 
-**FlutterUKI** | Leeds, UK | 2021–Present
+**FlutterUKI** | Leeds, UK | 2021–2025
 
 - Led a team of 3 architects owning the casino frontend platform, driving architectural quality, scalability, and cohesion across 12 engineering squads while embedding agile best practices.
 - Shaped the architectural strategy for migrating an internal gaming business (9M active users, £1B+ annual revenue) onto a unified platform, enabling shared features and reducing operational overhead. Migrated 10k customers per day with no downtime.
